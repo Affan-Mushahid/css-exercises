@@ -63,3 +63,10 @@ ul {
   display: flex;
   gap: 4px;
 }
+
+.footer {
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
